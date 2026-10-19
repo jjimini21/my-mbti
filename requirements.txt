@@ -1,2 +1,2 @@
-plot.ly
+plotly
 requests
